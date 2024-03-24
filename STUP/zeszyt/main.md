@@ -149,6 +149,186 @@ Możemy tu wyróżnić 3 sekcje:
 
 Zółta - frontstage. Cała interakcja z klientem. 
 
-Niebieska - backstage. To co robię w firmie sam.
+Niebieska - backstage. To co robię w firmie sam. 
 
 Zielona - wgląd w oba pozostałe pola. Model przychodowy.
+
+# Wyk 3
+
+## The Business Model Canvas
+
+Każde pole poniżej może być źródłem innowacji. Tzn nie zawsze innowacja musi być związana bezpośrednio z technologią, może to być nowe podejście do czegoś.
+
+![](img/10.png)
+
+https://www.slideshare.net/sblank/nsf-online-lecture-5-customer-relationships
+
+Niebieskie - Tu firmy najchętniej budują przewagę ponieważ tu mają największą kontrolę. Zasoby intelektualne to też np. patenty. Dużo ma Dyson (żeby być unique, dużo ma ich Nokia, żeby robić lease).
+
+Zielone - model finansowy. Tu się zastanawiamy co generuje koszty u nas. Jeśli jesteśmy Dyson to będziemy mieć koszty głównie w R&D. Jeśli chcemy budować markę Tesli, czyli na rynku już bardzo starym i osiadłym to wiadomix, że na marketing muszą iść grube miliony.
+
+Zółte
+
+Jak przedsiębiorca wstaje rano to czym się zajmuje? Są dwa podstawowe działania:
+
+- budowanie produktu
+- pozyskanie klienta
+
+**Partnerstwa** są spoko. One z definicji są takie, że obie strony mają win/win. Podwykonawstwo to nie jest partnerstwo. Ciężko mieć partnertwo korpo z niekorpo, średnia firma z nieśrednia, startup z ~startup. https://www.stava.eu/pl/. Zobacz ta firma nie ma napisane - dowoziomy żarcie do domu, ona oferuje innym firmom partnerstwo.
+
+>  Już lepiej zrobić kilka modeli niż jeden naćkany, a potem je skleić.
+
+### Lejek konwersji
+
+![](img/11.png)
+
+**Lejek** ponieważ część wpada do niego (trafiasz do nich ze swoich marketingiem), ale nie każdy z niego wypada (nie pójdzie dalej w to). Idealny kształt lejka to prostokąt, co przekłada się na to, że robisz reach-out tylko do takich ludzi, którzy coś od Ciebie kupią. Z drugiej strony też jest lejek, ponieważ teraz tych ludzi co zostali/przeszli dalej używasz, aby zdobyć kolejnych klientów.
+
+CAC - Customer Aquisition Cost
+
+Generować dobre leady - wpuszczać, naganiać takich ludzi, u których jest największe pstwo na **konwersję** na klienta, nie strzelać na ślepo.
+
+### Kto jest dobry w co
+
+![](img/12.png)
+
+Key partners - IKEA - z kim ona ma to partnertswo? Z Tobą jako klientem. Oni oddali składanie swoich mebli nie do jakiejś firmy zewnętrznej tylko do Ciebie :smirk:
+
+Customer Relationship - Firmy, które stawiają wysokie mury i zamykają klienta w swoich ekosystemach, tak aby nie chciało mu się wychodzić.
+
+### Typowe błędy w modelowaniu biznesowym
+
+![](img/13.png)
+
+1. Model jest na krótko, jest dynamiczny, bo świat jest dynamiczny. Model może zmieniać się codziennie, może iterować.
+2. Równolegle oprócz modelowania musimy weryfikować kolejne wersje prototypu produktu (najlepiej z klientem), czy to co zakładaliśmy, rzeczywiście jest prawdą (np. Audioteka case)
+3. As above
+4. Odnośnie klienta
+   1. Definiowanie klienta jako każdy/wszyscy - nigdy tak nie jest. Zawsze da się wyspecyfikować dokładniej persone. Myślisz, że messenger jest dla każdego? Że tu klient to każdy? To czemu nie ma 7B users?
+   2. Mylenie klient z użytkownik. Ja jestem użytkownikiem strony facebook.com, ale wgl za jej design w html ie płaciłem.
+   3. B2C jest dużo trudniejszym rynkiem
+5. Załóżmy software, który optymalizuje/automatyzuje procesy jakieś w firmie. Ten software to jest produkt, ale wartość jaką oferujemy to obniżenie kosztów tego procesu, skrócenie czasu jego obsługi itd.
+6. Czyli co jest mostem między Twoim produktem, a klientem
+7. Lejek
+8. Czyli jakaś symbioza dwóch firm fajna
+9. Nie umiem jeszcze tego skomentować
+10. Nie umiem ... as above
+
+### Lean canvas
+
+To jest narzędzie do modelowania biznesowego. Alternatywa (aczkolwiek podobne) do Business Model Canvas.
+
+![](img/14.png)
+
+![](img/15.png)
+
+Dobrze mieć zdefiniowane kryteria porażki, bo często i z reguły agonie się niepotrzebnie przedłużają.
+
+## Lean Startup - narzędzia
+
+Model biznesowy to jest ukorowanie pracy nad projektem, nikt nie oczekuje, że z palca od razu na niego wpadniesz. Ale jak to JPII mówił WYMAGAJ OD SIEBIE CHOĆBY INNI NIE WYMAGALI KURWA I JEST JECHANE, tak więc oczekujemy, że użyjesz tych narzędzi, aby jak najszybciej wpaść na model.
+
+### CPS - Client - Problem - Solution
+
+To sobie rozpisz, żeby już na etapie problemu móc odrzucić pomysły. Odróżnienie co rokuje a co nie.
+
+> Fundusze inwestycyjne, które słuchają tych prezentacji, to one też nie wiedzą co rokuje a co nie. Tu jest dużo gry w ciemno. 
+>
+> Ogólnie to na 10 zainwestowanych startupów przez VC 1 spłaca całą resztę.
+>
+> Jak usłyszysz, że 9 na 10 startupów upada, to nie -> to, to poprzednie zdanie jest true.
+
+### Proto-Persona
+
+<img src="img/16.png" style="zoom:75%;" />
+
+https://flyingbisons.com/knowledge-base/proto-persona
+
+### Empathy Map
+
+
+
+![](img/17.png)
+
+Idzie dobrze w parze z Proto-Persona
+
+![](img/18.png)
+
+### The value Proposition Canvas
+
+<img src="img/19.png" style="zoom:75%;" />
+
+[The Value Proposition Canvas example on Tesla case](https://youtu.be/zlf2iRRufGE?si=DZGVyOIq66Swuk_8) <-- Prowadzi Alex Ostelvander.
+
+https://www.strategyzer.com/library/the-value-proposition-canvas
+
+### Strategyzer  - Business Model Canvas
+
+To jest tool ostateczny
+
+https://www.strategyzer.com/library/the-business-model-canvas
+
+### Lean Canvas
+
+To jest tool poboczny/ostateczny
+
+https://bmtoolbox.net/tools/lean-canvas/
+
+# Wyk 4
+
+Hasło przewodnie tego wykładu to:
+
+"Innowacje i zmiany mogą się wydarzyć w każdy z 3-ech/9-ciu bloków/pól modelu biznesowego"
+
+Warto się zatem zastanowić co w NASZEJ firmie będzie wyróżnikiem.
+
+![](img/20.png)
+
+
+
+> Gdzie jest duża rotacja pracowników? Duży handel (biedronka) oraz szkoły językowe.
+
+>Value proposition to też korzyści marketingowe, wizerunkowe, emocjonalne, społeczne.
+
+> Pola w kanwie jedne wynikają z drugich. Masz w Key Resources, że potrzeba Ci know-how, to Key-Partners będą klienci dzielący się wiedzą, to Key-Activities będzie pozyskanie partnerów.
+
+**Sprzedaż bezpośrednia** - czyli takie chodzenie, nękanie ludzi. Wybierasz jakiś sektor np. banki. Szukasz jednego CEO idziesz do niego i tak go urabiasz aż kupi, a potem to on poleci znajomemu z branży i się to kręci
+
+## Zmiany w frontstage
+
+![](img/21.png)
+
+### Nowe rynki
+
+Wizjonerzy adresują rynki:
+
+- nowe
+- nienowe, ale takie, gdzie jakaś potrzeba jeszcze nie jest addressed, lub jest addressed, ale po staremu i technologia pozwala na taką adresjaće, która da gain na innym polu
+- totalnie specyficzne
+- które JESZCZE nie istnieją
+
+### Kanały
+
+Nespresso był pionierem sprzedaży kawy bezpośrednio do klienta. Eliminacja pośrednika - sklep. To wymagało nowych zasobów - większej wiedzy o kliencie, sposoby na dotarcie do klienta.
+
+### Grawitacja
+
+Repurposer tu chyba jest, ale nie wiem.
+
+Np. był soft dla projektowania myśliwców, a się okazuje, że architekcji mogą z nań korzystać.
+
+### Przykłady
+
+#### Wizjoner: Tesla
+
+W 2012 marka Tesla tworzy produkt na **rynku**, którego nikt wcześniej nie eksploatował.
+
+![](img/22.png)
+
+#### Repurposer: M-Pesa
+
+W 2007 r. Safaricom re-wykorzystuje swoją sieć telekomunikacyjną w Kenii do stworzenia M-Pesa-rozwiązania w zakresie masowych przelewów pieniężnych.
+W 2009 r. w Kenii (populacja 39 mln) są zaledwie 352 bankomaty i 491 oddziałów banków.
+W 2013 r. z sieci korzysta 23 mln Kenijczyków, a w 2019r. -37 mln.
+
+![](img/23.png)
