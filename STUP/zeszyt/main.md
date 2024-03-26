@@ -332,3 +332,133 @@ W 2009 r. w Kenii (populacja 39 mln) są zaledwie 352 bankomaty i 491 oddziałó
 W 2013 r. z sieci korzysta 23 mln Kenijczyków, a w 2019r. -37 mln.
 
 ![](img/23.png)
+
+## Zmiany w backstage
+
+![](img/24.png)
+
+### Działania
+
+- **efektywność** 
+- **mistrz tempa** - np. Zara, wypracowała taki model, żeby móc jak najszybciej odpowiadać na trendy w modzie.
+- **zrównoważenie - social impact** - tu chodzi o zrównoważony rozwój (sustainable development), np. InPost teraz tak się promuje, ponieważ ostatnia mila (która stanowi dosyć duży procent dojazdu kuriera) jest zastąpiona piechotą zamiast śladem węglowym. Tutaj też dobry przykład to firma Patagonia.
+
+### Warownie zasobów
+
+- **Użytkowników** - że bogate community - tak. Korzystanie z community. Produkty, gdzie jest efekt skali, im większa sieć userów, tym lepiej ona działa. Przykład: Waze
+- **Platformy**
+- **Intellectual Property** - tu np. Dyson. On wydaje mega dużą kasę na best class inżynierów, żeby mieć produkty totalnie wyróżniające się technologią. Ale też, żeby były one unikalne, to bardzo dużo tych technologii patentuje.
+- **Marki**
+
+### Skalujący się
+
+- **Delegowanie**
+- **Franczyzy** - McDonald's, KFC, Żabka. Tworzysz jakiś wirtualny produkt, a dajesz innym B2B jego implementacje. Ty się zajmujesz marketingiem na cały kraj itp, a oni dają dostęp klientom do Twojego produktu.
+- **Licencje** - czyli, że masz jakiś produkt, i dajesz komuś innemu licencje na to, ze może on użyć tego jako cześć swojego produktu. Np. tak zrobił DigitalRoute z mega dobrą platformą co szybko gada diameter, a Broadforward ogarnął z tego PCRF.
+
+### Przyklady
+
+#### Waze
+
+![](img/25.png)
+
+W 2008 roku WAZE opracowuje system nawigacji drogowej, który staje się lepszy z każdym kolejnym użytkownikiem.
+Informacje przekazywane przez użytkowników w czasie rzeczywistym pomagają skrócić czas dojazdu do pracy i zmniejszyć korki.
+
+#### Dyson
+
+![](img/26.png)
+
+Począwszy od pierwszego odkurzacza w 1993 r., Dyson stawia czoła wielu wyzwaniom związanym z inżynierią produktów. Dużo inwestuje w Research&Development aby wprowadzać na rynek innowacyjne, najlepsze w swojej klasie produkty, które sprzedaje drogo w klasie premium i chroni patentami.
+
+#### Zara
+
+![](img/27.png)
+
+W latach osiemdziesiątych Zara poważnie zaburza przemysł mody, radykalnie rekonfigurując łańcuch dostaw i tworząc kategorię szybkiej mody „fast fasion”. Jest w stanie niemal natychmiast reagować na trendy w modzie poprzez pionową integrację swojego łańcucha dostaw.
+
+#### Patagonia
+
+![](img/28.png)
+
+W 1973 roku Yvan Chouinard tworzy firmę odzieżową, której działalność jest zorientowana na ochronę środowiska.
+
+## Zmiany w Profit Disruption
+
+![](img/29.png)
+
+### Kosztowcy
+
+- **Eliminacja kosztów stałych** - czyli sprzedawanie tego co do nas nie należy: drop-shipping, AirBnb.
+- **Tech-koszty**
+- **Low-Cost** - np. tanie linie lotnicze (WizzAir, RyanAir, EnterAir), pojawiły się dzięki zmianom w prawie.
+
+### Marżowcy
+
+- **Bogate nisze high-end**
+- **Głębokie nisze**
+
+### Przychodowcy
+
+- **Powracający przychód** - czyli, że klienci wracają (a jednocześnie dochodzą nowi) - keep&grow.
+- **Komplementarne "przynęta i haczyk"** - Kodak sprzedaje tanio aparaty, a zarabia na usługach wywoływania zdjęć i ten model się sprawdzał przez kilkadziesiąt. Xerox tak samo, tanie drukarki, drogie tusze, serwis i części zamienne.
+- **Freemium**
+- **Sprzedaż subsydiowana**
+
+### Przykłady:
+
+#### What's app
+
+![](img/30.png)
+
+Technolodzy” używają technologii w sposób, który pozwala im na uzyskanie dramatycznej zmiany w strukturze kosztów.
+
+W 2009 WhatsApp uruchamia darmową usługę przesyłania wiadomości, która poważnie zakłóca rynek usług SMS oraz mailowych.
+
+Dają wiadomości za darmo, jak nikt dotąd wcześniej. Skąd więc mają kase na utrzymanie? That's very easy (today) - sprzedają dane użytkowników do firm odpowiedzialnych za targetowane reklamy.
+
+#### citizenM
+
+![](img/31.png)
+
+Oni idealnie trafiają w rynek "Digital Nomad". Digital Nomad zazwyczaj charakteryzuje to, że sa to ludzie bogaci, którzy chcą mieszkać blisko centrum jakiegoś fajnego miasta. Chcą mieć high-end hotel. 
+
+I właśnie  na rynku, gdzie po AirBnb i Booking.com wydawało się, że już nic się nie zadzieje, to oni zaspokajają nisze Digital Nomad. Hotele są totalnie automated, koszty ludzkie są dzieki temu zredukowane sztos, przychodzą tu tylko 1 człowiek na dyżury i ten jeden jest od wszystkiego. Ceny za takie hotele są wysokie, bo dla bogatych ludzi no i ez.
+
+### Summary
+
+![](img/32.png)
+
+Nie wiem ocb tutaj też mozna mieć przewagi xD
+
+Oprzyj swój model o coś, o jedno z tych poniżej:
+
+![](img/33.png)
+
+## Żabka
+
+Możesz mieć tak dwie kanwy wgl
+
+![](img/34.png)
+
+![](img/35.png)
+
+# Wyk 5
+
+## Oburęczna organizacja (ang. Ambidextrous)
+
+Współczesne organizacje funkcjonują w coraz bardziej niepewnym środowisku, warunkach wysokiego ryzyka. Ich przetrwanie jest ważne. Wszyscy zadają sobie pytanie - "Co zrobić, żeby przetrwać?", "Co zrobić, żeby konkurencja. której jeszcze nie widzimy jutro nas nie zjadła?". No i remedium to **exploit**, ale nie zaniedbywać równocześnie **explore**. Organizacje głowią się nad tym jak połączyć jedno z drugim.
+
+![](img/36.png)
+
+![](img/37.png)
+
+![](img/38.png)
+
+Zoom na projekty eksploracyjne i eksploatacyjne. 
+
+Corporate venture firmy duże tworzą w ciemno spółki córki, żeby rozwijać jakieś fajne modele biznesowe. No i jak jakiś zadziała to wdrażają to u siebie. 
+
+Np. Siemens w takim lejku z 250 na wejściu to tylko 2 znalazły zastosowanie w firmie matce. Reszta do kosza.
+
+Krytycy mówią na to Innovation Theater.
