@@ -306,6 +306,14 @@ Wizjonerzy adresują rynki:
 - nienowe, ale takie, gdzie jakaś potrzeba jeszcze nie jest addressed, lub jest addressed, ale po staremu i technologia pozwala na taką adresjaće, która da gain na innym polu
 - totalnie specyficzne
 - które JESZCZE nie istnieją
+- demokratyzacja
+  - Demokratyzacja w modelu biznesowym odnosi się do procesu, w którym firma stara się uczynić swoje produkty, usługi lub technologie bardziej dostępnymi i przystępnymi dla szerszego grona osób. Oznacza to zazwyczaj obniżenie kosztów, uproszczenie procesów lub zmniejszenie barier wejścia, aby umożliwić większej liczbie ludzi korzystanie z oferowanych rozwiązań. Przykłady demokratyzacji w modelu biznesowym obejmują: 
+    - Obniżenie cen: Firmy mogą zmniejszyć ceny swoich produktów lub usług, aby uczynić je bardziej dostępnymi dla osób o różnych poziomach dochodów. 
+    - Uproszczenie interfejsu użytkownika: Poprzez usprawnienie interfejsu użytkownika lub zapewnienie łatwiejszego dostępu do produktów/usług, firmy mogą zwiększyć dostępność dla osób o różnych poziomach umiejętności technicznych. 
+    - Otwarte standardy: Stworzenie otwartych standardów lub protokołów może umożliwić innym firmom dostosowanie się do danej branży lub tworzenie kompatybilnych produktów, co przyczynia się do większej konkurencji i różnorodności oferty na rynku. 
+    - Edukacja i szkolenia: Dostarczenie darmowych lub tanich zasobów edukacyjnych oraz szkoleń może pomóc zwiększyć umiejętności i wiedzę osób z różnych środowisk, umożliwiając im lepsze wykorzystanie nowych technologii czy możliwości biznesowych. D
+    - Demokratyzacja w modelu biznesowym ma na celu nie tylko zwiększenie dostępu do produktów i usług, ale także promowanie inkluzji społecznej oraz stymulowanie innowacji poprzez zachęcanie większej liczby osób do udziału w życiu gospodarczym i społecznym.
+
 
 ### Kanały
 
@@ -462,3 +470,124 @@ Corporate venture firmy duże tworzą w ciemno spółki córki, żeby rozwijać 
 Np. Siemens w takim lejku z 250 na wejściu to tylko 2 znalazły zastosowanie w firmie matce. Reszta do kosza.
 
 Krytycy mówią na to Innovation Theater.
+
+# Cwiczenia
+
+## 1
+
+Lean się wzięło od Toyoty 
+
+### Leeeean
+
+Działanie leanowo - działanie szczupłe - Zdroworozsądkowe podejście do usprawniania procesów poprzez eliminacje marnotrastwa i poprawę przepływu w celu dostarczenia oczekiwanej wartości klientowi oraz zwiększenia produktywności
+
+Ekonomia wysiłku - tylko to co jest przydatne potrzebne zdroworozsądkowe. Jebać biurokracje 16:25 
+
+Wszystko kręci się wokół klient. 
+
+Bogaci ludzie, bogate kraje to takie które produkują dużo w jednostce czasu.
+
+### Pitch deck
+
+<img src="C:\Users\Admin\AppData\Roaming\Typora\typora-user-images\image-20240409194829537.png" alt="image-20240409194829537" style="zoom:50%;" />
+
+### Pay it forward
+
+Pay it forward - kultura współpracy, pomagam komuś nie oczekuje że ktoś odwzajemni, ludzie bogaci to tacy co mocno współpracują, bogate firmy to takie co mocno współpracują, i Ty pomożesz Tobie, ktoś inny komuś innemu i tak to wraca.
+
+STUP obrósł trochę taka przyjaźnią, jest dużo osób też z wysokich stanowisk w tej grupie przyjaciół.  Bogaci ludzie są mega bezpośredni i są np od razu na Ty.  
+
+Aula Polska "Zdrowie Psychiczne Foundera".  
+
+Grywalizacja to jest dobre, często to rób jako manager  
+
+
+
+## 2
+
+!!! Zrób kurs lean canvas na strefawiedzypfr.pl. - i dodaj go na LinkedIn.
+
+16:23 Ash Maurya wziął od Ostelvaldera canvas i "ulepszył". Ulepszył według niego.  Ten kurs tłumaczy te 9 pól.  Wydanie III książki Asha jest najlepsze.  Gość mówi że w 2h całość jebniesz.  
+
+Startupowcy to best książka jest. 
+
+<img src="img/39.png" style="zoom:55%;" />
+
+Teoria slotów, trzeba wejść w odpowiednim czasie, produkty albo są spóźnione, ale na rynku jest dla nich za wcześnie.  
+
+16:56 Iceye 
+
+> Wypełnij zajebiście LinkedIn. Spójrz na swój profil jako inwestor.  
+
+Sunk costs - Koszty utopione. 
+
+>  Adam Grycuk twierdzi że już CPK nie można cofnąć.  
+
+Złe rozpoznanie rynku i konkurencji to jest main dish Twój. 
+
+17:05 klient jest sędzią wartości 
+
+![](img/40.png)
+
+Trzeba always dopasować obie rzeczy w zarządzaniu często jest dużo takich mnożeń 
+
+### Rozponanie rynku
+
+<img src="img/41.png" style="zoom:50%;" />
+
+Product-market fit jest ważne. 
+
+Ty jako inżynier widzisz swoją brożkę, a nie innych ludzi.  Stań się nimi, wejdź w ich świat. Myśl jak oni.
+
+Jak ludzie,firmy jakoś sobie radzą w tym momencie z tym zmudnym procesem? --> **Desk research.**  
+
+Czego użyć?
+
+- słowa kluczowe (znajdź ich 500)
+- język angielski > język polski
+- google search operators
+- rozmowa z ludźmi, którzy znają ten rynek
+- sprawdzić miejsca, w których rozmawiają ze sobą klienci lub użytkownicy Twojego produktu
+- zostać klientem konkurencji i przetestować ich rozwiązania
+- Równolegle konfrontować tę rozszerzaną wiedzę o rynku, klientach, konkurentach i ich produktach ze swoim rozwiązaniem - czy dalej ma to sens?
+
+## The startup Lexicon
+
+Każa branża ma swój slang, founderzy też. Jest 100 słów i one są w książce 
+
+**Founder**
+
+**Founder-market fit** - dopasowanie foundera do rynku  To jets ważne VC często inwestuje w ludzi. Jak macie zespół to często możecie ogarnąć co jesteście mocno i to robić 
+
+**Acqui-hiring  Acqui-hire**  Kupujemy startup nie dla rynku i produktu ale dla ludzi. 
+
+**Exit** - sprzedaje w jakiś sposób startup, 
+
+**Initial Public Offeration** - wejście na giełdę  
+
+**Pitch** - czynności robienia tej prezki 
+
+**Pitch deck** - 8 slajdów  
+
+**Pitch** - czyli wsiadasz z gościem do windy i masz mu szybko powiedzieć. Ludzie bogaci mają mało czasu 
+
+**Demo day** - dzień prezentacji 
+
+**Pivot** - zmiana koncepcji, modelu biznesowego, duża poważna zmiana 
+
+**Unicorn** - prywatną firma wyceniana na na 1mld USD. Wycena firm to ciężka sprawa, jeszcze ciężej startupy.  
+
+**Bootstrapping** - tworzenie bez żadnego kapitału, jeśli na razie bootstrapujemy to że nie mamy finansowania zewnętrznego, swoje fundusze 
+
+**3fs (4fs)** - founders, family, friends, (and fools) 
+
+**VC**  
+
+**CVC** - corporate VC, wiele wielkich firm ma swój własne fundusze VC
+
+**Venture building** - 17:15  Żeby uzyskać technologie, kupujemy kompetencje, tak wielkie firmy robią. Ale możecie też zlecić wyhodowanie takiej firmy dla siebie, to jest venture building. Firmy które wykonują takie zlecenia nazywają się fabrykami startupow. JAK SIE NAZYWA TA W WAWIE 
+
+**Anioł biznesu** - VC ale prywatną osobą jest 
+
+**B2G** - business to government 
+
