@@ -67,7 +67,6 @@ If you ask me I would like to have something between this two options.
 
   - Bad
     - Position (the tilt/lean of the bird)
-
 - Right
 
   - Good
@@ -76,10 +75,8 @@ If you ask me I would like to have something between this two options.
     - Simplicity on the perfect level 
   - Bad
     - colors
-
 - Both
   - Good
     - modern look
   - Bad
-    - position of the 
-    - typography, especially in the left one
+    - position of the typography, especially in the left one
